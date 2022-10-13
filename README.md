@@ -1,6 +1,6 @@
 # Unsplash Clone-Project
 Unsplash is a website dedicated to proprietary stock photography. Where Photographer can upload their Work and
-User can save them or use in various way like wallpaper, use in some project etc.
+User can save them and use in various way like wallpaper, use in some project etc.
 
 ## Preview
 ![Unsplash](https://user-images.githubusercontent.com/47365524/195563772-18592891-24c2-4e2c-b257-f03ca111d15e.png)
