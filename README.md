@@ -16,7 +16,7 @@ User can save them and use in various way like wallpaper, use in some project et
 - Blog page linked with social media sites.
 - Displaying all the added and uploaded images on website with edit profile option.
 
-## 🛠 Skills
+## 🛠 Tech Stack
 - HTML
 - CSS
 - Javascript and Localstorage
