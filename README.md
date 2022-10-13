@@ -16,9 +16,9 @@ Unsplash cloning construct week project of Unit-3
 - Displaying all the added and uploaded images on website with edit profile option.
 
 ## 🛠 Skills
--HTML
--CSS
--Javascript and Localstorage
+- HTML
+- CSS
+- Javascript and Localstorage
 
 ## Authors
 - [@pravhat ray](https://github.com/pravhatray)
