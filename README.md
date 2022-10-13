@@ -1,5 +1,5 @@
 # Unsplash Clone-Project
-Unsplash cloning construct week project of Unit-3
+Unsplash is a website dedicated to proprietary stock photography. Since 2021, it has been owned by Getty Images.
 
 ## Preview
 ![Unsplash](https://user-images.githubusercontent.com/47365524/195563772-18592891-24c2-4e2c-b257-f03ca111d15e.png)
