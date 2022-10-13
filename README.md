@@ -1,5 +1,9 @@
-# Unsplash-Project_U3
+# Unsplash Clone-Project
 Unsplash cloning construct week project of Unit-3
+
+## Preview
+![Unsplash](https://user-images.githubusercontent.com/47365524/195563772-18592891-24c2-4e2c-b257-f03ca111d15e.png)
+
 ![unplash](https://user-images.githubusercontent.com/47365524/195563126-e9478c46-c7fc-402c-be0e-3637c9c9476d.png)
 
 
@@ -12,7 +16,9 @@ Unsplash cloning construct week project of Unit-3
 - Displaying all the added and uploaded images on website with edit profile option.
 
 ## 🛠 Skills
-Javascript, HTML, CSS and Localstorage
+-HTML
+-CSS
+-Javascript and Localstorage
 
 ## Authors
 - [@pravhat ray](https://github.com/pravhatray)
