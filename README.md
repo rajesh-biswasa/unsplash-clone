@@ -5,7 +5,6 @@ User can save them and use in various way like wallpaper, use in some project et
 ## Preview
 ![Unsplash](https://user-images.githubusercontent.com/47365524/195563772-18592891-24c2-4e2c-b257-f03ca111d15e.png)
 
-![unplash](https://user-images.githubusercontent.com/47365524/195563126-e9478c46-c7fc-402c-be0e-3637c9c9476d.png)
 
 
 ## Features
